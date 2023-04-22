@@ -1,0 +1,16 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Wireframe",
+  "PAlpha": 255.0,
+  "CAlpha": 255.0,
+  "PLineWidth": 1.0,
+  "CLineWidth": 1.0,
+  "PMode": "SOLID",
+  "CMode": "SOLID",
+  "Players": false,
+  "PlayerModel": false,
+  "Crystals": false,
+  "CrystalModel": false
+}

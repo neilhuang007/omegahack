@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "HandChams",
+  "Mode": "SOLID",
+  "Red": 255,
+  "Green": 0,
+  "Blue": 0,
+  "Alpha": 240
+}

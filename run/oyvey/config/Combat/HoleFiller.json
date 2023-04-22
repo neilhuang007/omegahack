@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "HoleFiller",
+  "PlaceRange": 8,
+  "Delay": 50,
+  "BlocksPerTick": 20
+}

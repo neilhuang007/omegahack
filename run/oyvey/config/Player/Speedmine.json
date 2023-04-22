@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Speedmine",
+  "Mode": "PACKET",
+  "Damage": 0.7,
+  "WebSwitch": false,
+  "DoubleBreak": false,
+  "Render": false,
+  "Box": false,
+  "BoxAlpha": 85,
+  "Outline": true,
+  "Width": 1.0
+}

@@ -1,0 +1,23 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "Y",
+  "DisplayName": "ClickGui",
+  "Prefix": ".",
+  "CustomFov": false,
+  "Fov": 150.0,
+  "Red": 0,
+  "Green": 0,
+  "Blue": 255,
+  "Alpha": 180,
+  "SecondRed": 0,
+  "SecondGreen": 0,
+  "SecondBlue": 150,
+  "HoverAlpha": 240,
+  "Rainbow": false,
+  "HRainbowMode": "Static",
+  "ARainbowMode": "Static",
+  "Delay": 240,
+  "Brightness ": 150.0,
+  "Saturation": 150.0
+}

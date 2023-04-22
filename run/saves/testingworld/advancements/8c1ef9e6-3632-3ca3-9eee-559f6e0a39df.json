@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2023-04-15 12:01:01 +0800",
+      "taiga_hills": "2023-04-15 12:00:43 +0800"
+    },
+    "done": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "ESP",
+  "Items": false,
+  "XpOrbs": false,
+  "XpBottles": false,
+  "Pearls": false,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "BoxAlpha": 120,
+  "Alpha": 255
+}

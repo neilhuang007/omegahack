@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "ArrowESP",
+  "Red": 255,
+  "Green": 0,
+  "Blue": 255,
+  "Placement": 45,
+  "Size": 10.0,
+  "Outline": true,
+  "Outline-Width": 1.0,
+  "Range": 100,
+  "Invisibles": false
+}

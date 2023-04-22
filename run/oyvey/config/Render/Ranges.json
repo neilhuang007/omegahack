@@ -1,0 +1,16 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Ranges",
+  "HitSpheres": false,
+  "Circle": true,
+  "OwnSphere": false,
+  "RayTrace": false,
+  "LineWidth": 1.5,
+  "Radius": 4.5,
+  "Red": 0,
+  "Green": 255,
+  "Blue": 0,
+  "Alpha": 255
+}

@@ -1,2 +1,2 @@
-# omegahack
- 1.12.2 hack client
+# OyveyRewrite
+oyvey update new depens rewrite

@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Target",
+  "TargetHudBackground": true,
+  "Background Alpha": 160,
+  "TargetHudX": 0,
+  "TargetHudY": 0,
+  "Background-Red": 20,
+  "Background-Green": 20,
+  "Background-Blue": 20
+}

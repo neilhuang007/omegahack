@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "AutoMinecart",
+  "Web": false,
+  "Rotate": false,
+  "PacketPlace": false,
+  "BlocksPerTick": 1,
+  "Carts": 20,
+  "MinHP": 4.0
+}

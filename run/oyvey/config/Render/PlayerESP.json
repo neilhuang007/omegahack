@@ -1,0 +1,23 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "PlayerESP",
+  "target range": 8,
+  "Scan Red": 254,
+  "Scan Green": 216,
+  "Scan Blue": 177,
+  "Scan alpha": 255,
+  "Scan linewidth": 1,
+  "enemy attackrange": true,
+  "scan effect": true,
+  "hitBox": false,
+  "Health": true,
+  "Arrow": false,
+  "ping": false,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "alpha": 255,
+  "linewidth": 1
+}
